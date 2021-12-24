@@ -4,8 +4,6 @@ import time
 from PIL import Image
 
 def fullpage_screenshot(driver, file):
-
-
         total_width = driver.execute_script("return document.body.offsetWidth")
         total_height = driver.execute_script("return document.body.parentNode.scrollHeight")
         viewport_width = driver.execute_script("return document.body.clientWidth")
