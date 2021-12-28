@@ -135,9 +135,10 @@ class Browser():
     def screen_shot(self, driver, image_name, result):
         image_name = self.curdir + "\\image\\" + str(self.int_count) + "-" + image_name + "-" + str(result) + ".png"
         image_name = image_name.replace("True", "OK").replace("False", "NG")
+        sleep(1)
         until.fullpage_screenshot(driver, image_name)
         self.int_count += 1
-        return image_name.split("\\")[-1]
+        return image_name
 
     def check_logo_home_page_above(self, driver, df):
         '''
@@ -465,8 +466,8 @@ class Browser():
                 pass
             else:
                 work_sheet[col_value + str(int_row)].value = str(self.values[index])
-            # Write to col image_name
-            work_sheet[col_image_name + str(int_row)].value = self.images_name[index]
+            # Write to col image_name and hyperlink image
+            work_sheet.cell(row=int_row, column=11).value = '=HYPERLINK("{}", "{}")'.format(self.images_name[index], self.images_name[index].split("\\")[-1])
             int_row += 1
             index += 1
         work_book.save(output_file)

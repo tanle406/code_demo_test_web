@@ -7416,3 +7416,320 @@ from unknown error: web view not found
 22/12/2021 16:42:50 ---------- Start check button prev slick arrow
 22/12/2021 16:42:55 ---------- Result check button prev slick arrow: True
 22/12/2021 16:42:55 ---------- End check button prev slick arrow
+24/12/2021 09:25:49 ---------- -------------------------------START-------------------------------
+24/12/2021 09:25:49 ---------- Start backup and create a new output file
+24/12/2021 09:25:49 ---------- End backup and create a new output file
+24/12/2021 09:25:49 ---------- Start open browser Chrome
+24/12/2021 09:25:56 ---------- End open browser Chrome
+24/12/2021 09:28:27 ---------- Start check page Recommend Products
+24/12/2021 09:28:31 ---------- Result check page Recommend Products: True
+24/12/2021 09:28:31 ---------- End check page Recommend Products
+24/12/2021 09:28:40 ---------- Start check page Recommend Recipe
+24/12/2021 09:28:55 ---------- Result check page Recommend Recipe: False
+24/12/2021 09:28:55 ---------- End check page Recommend Recipe
+24/12/2021 09:29:03 ---------- Start check page Experience
+24/12/2021 09:29:16 ---------- Result check page Experience: False
+24/12/2021 09:29:16 ---------- End check page Experience
+24/12/2021 09:29:23 ---------- Start check page Company
+24/12/2021 09:29:25 ---------- Result check page Company: True
+24/12/2021 09:29:25 ---------- End check page Company
+24/12/2021 09:29:33 ---------- Start check page Contact
+24/12/2021 09:29:35 ---------- Result check page Contact: True
+24/12/2021 09:29:35 ---------- End check page Contact
+24/12/2021 09:29:43 ---------- Start check page Recruitment
+24/12/2021 09:29:44 ---------- Result check page Recruitment: True
+24/12/2021 09:29:44 ---------- End check page Recruitment
+24/12/2021 09:29:52 ---------- Start check button English
+24/12/2021 09:29:56 ---------- Result check button English: True
+24/12/2021 09:29:56 ---------- End check button English
+24/12/2021 09:30:03 ---------- Start check button Chinese
+24/12/2021 09:30:05 ---------- Result check button Chinese: True
+24/12/2021 09:30:05 ---------- End check button Chinese
+24/12/2021 09:30:15 ---------- Start check button Logo Home Page Above
+24/12/2021 09:30:15 ---------- Start check slider list item
+24/12/2021 09:30:15 ---------- Result check slider list item: True
+24/12/2021 09:30:15 ---------- End check slider list item
+24/12/2021 09:30:20 ---------- Result check button Logo Home Page Above: True
+24/12/2021 09:30:20 ---------- End check button Logo Home Page Above
+24/12/2021 09:30:27 ---------- Start check button next slick arrow
+24/12/2021 09:30:33 ---------- Result check button next slick arrow: True
+24/12/2021 09:30:33 ---------- End check button next slick arrow
+24/12/2021 09:30:41 ---------- Start check button prev slick arrow
+24/12/2021 09:30:46 ---------- Result check button prev slick arrow: True
+24/12/2021 09:30:46 ---------- End check button prev slick arrow
+24/12/2021 09:56:44 ---------- -------------------------------START-------------------------------
+24/12/2021 09:56:44 ---------- Start backup and create a new output file
+24/12/2021 09:56:44 ---------- End backup and create a new output file
+24/12/2021 09:56:49 ---------- Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEFF57F7F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+24/12/2021 09:56:53 ---------- Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEFF57F940>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+24/12/2021 09:56:57 ---------- Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEFF57FA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+24/12/2021 09:57:43 ---------- -------------------------------START-------------------------------
+24/12/2021 09:57:43 ---------- Start backup and create a new output file
+24/12/2021 09:57:43 ---------- End backup and create a new output file
+24/12/2021 10:02:21 ---------- -------------------------------START-------------------------------
+24/12/2021 10:02:21 ---------- Start backup and create a new output file
+24/12/2021 10:02:21 ---------- End backup and create a new output file
+24/12/2021 11:10:44 ---------- -------------------------------START-------------------------------
+24/12/2021 11:10:44 ---------- Start backup and create a new output file
+24/12/2021 11:10:44 ---------- End backup and create a new output file
+24/12/2021 11:11:01 ---------- Check button Logo Home Page Above
+24/12/2021 11:13:31 ---------- -------------------------------START-------------------------------
+24/12/2021 11:13:31 ---------- Start backup and create a new output file
+24/12/2021 11:13:31 ---------- End backup and create a new output file
+24/12/2021 11:13:57 ---------- Check button Logo Home Page Above
+24/12/2021 11:14:12 ---------- Start check page Recommend Products
+24/12/2021 11:14:58 ---------- -------------------------------START-------------------------------
+24/12/2021 11:14:58 ---------- Start backup and create a new output file
+24/12/2021 11:14:58 ---------- End backup and create a new output file
+24/12/2021 11:15:24 ---------- Check button Logo Home Page Above
+24/12/2021 11:20:08 ---------- -------------------------------START-------------------------------
+24/12/2021 11:20:08 ---------- Start backup and create a new output file
+24/12/2021 11:20:08 ---------- End backup and create a new output file
+24/12/2021 11:20:22 ---------- Check button Logo Home Page Above
+24/12/2021 11:20:36 ---------- Start check page Recommend Products
+24/12/2021 11:20:50 ---------- Start check page Recommend Recipe
+24/12/2021 11:21:05 ---------- Start check page Experience
+24/12/2021 11:21:19 ---------- Start check page Contact
+24/12/2021 11:21:23 ---------- Start check page Recruitment
+24/12/2021 11:21:37 ---------- Check button Logo Home Page Above
+24/12/2021 11:21:49 ---------- Start check button Page Top
+27/12/2021 08:35:16 ---------- -------------------------------START-------------------------------
+27/12/2021 08:35:16 ---------- Start backup and create a new output file
+27/12/2021 08:35:16 ---------- End backup and create a new output file
+27/12/2021 08:35:33 ---------- Check button Logo Home Page Above
+27/12/2021 08:35:47 ---------- Start check page Recommend Products
+27/12/2021 08:36:01 ---------- Start check page Recommend Recipe
+27/12/2021 08:36:16 ---------- Start check page Experience
+27/12/2021 08:36:29 ---------- Start check page Contact
+27/12/2021 08:36:33 ---------- Start check page Recruitment
+27/12/2021 08:36:46 ---------- Check button Logo Home Page Above
+27/12/2021 08:36:57 ---------- Start check button Page Top
+27/12/2021 08:40:38 ---------- -------------------------------START-------------------------------
+27/12/2021 08:40:38 ---------- Start backup and create a new output file
+27/12/2021 08:40:38 ---------- End backup and create a new output file
+27/12/2021 08:40:52 ---------- Start check button next slick arrow
+27/12/2021 08:41:53 ---------- -------------------------------START-------------------------------
+27/12/2021 08:41:53 ---------- Start backup and create a new output file
+27/12/2021 08:41:53 ---------- End backup and create a new output file
+27/12/2021 08:42:07 ---------- Start check button next slick arrow
+27/12/2021 08:48:24 ---------- -------------------------------START-------------------------------
+27/12/2021 08:48:24 ---------- Start backup and create a new output file
+27/12/2021 08:48:24 ---------- End backup and create a new output file
+27/12/2021 08:48:39 ---------- Check button Logo Home Page Above
+27/12/2021 08:48:53 ---------- Start check page Recommend Products
+27/12/2021 08:49:08 ---------- Start check page Recommend Recipe
+27/12/2021 08:49:22 ---------- Start check page Experience
+27/12/2021 08:49:35 ---------- Start check page Contact
+27/12/2021 08:49:39 ---------- Start check page Recruitment
+27/12/2021 08:49:52 ---------- Check button Logo Home Page Above
+27/12/2021 08:50:03 ---------- Start check button Page Top
+27/12/2021 09:01:58 ---------- -------------------------------START-------------------------------
+27/12/2021 09:01:58 ---------- Start backup and create a new output file
+27/12/2021 09:01:58 ---------- End backup and create a new output file
+27/12/2021 09:01:59 ---------- Start open browser Chrome
+27/12/2021 09:02:06 ---------- End open browser Chrome
+27/12/2021 09:03:12 ---------- Start check page Recommend Products
+27/12/2021 09:03:24 ---------- Result check page Recommend Products: True
+27/12/2021 09:03:24 ---------- End check page Recommend Products
+27/12/2021 09:03:35 ---------- Start check page Recommend Recipe
+27/12/2021 09:05:11 ---------- Result check page Recommend Recipe: True
+27/12/2021 09:05:11 ---------- End check page Recommend Recipe
+27/12/2021 09:05:19 ---------- Start check page Experience
+27/12/2021 09:05:31 ---------- Result check page Experience: True
+27/12/2021 09:05:31 ---------- End check page Experience
+27/12/2021 09:05:40 ---------- Start check page Company
+27/12/2021 09:05:47 ---------- Result check page Company: True
+27/12/2021 09:05:47 ---------- End check page Company
+27/12/2021 09:05:56 ---------- Start check page Contact
+27/12/2021 09:05:59 ---------- Result check page Contact: True
+27/12/2021 09:05:59 ---------- End check page Contact
+27/12/2021 09:06:07 ---------- Start check page Recruitment
+27/12/2021 09:06:10 ---------- Result check page Recruitment: True
+27/12/2021 09:06:10 ---------- End check page Recruitment
+27/12/2021 09:06:20 ---------- Start check button English
+27/12/2021 09:06:26 ---------- Result check button English: True
+27/12/2021 09:06:26 ---------- End check button English
+27/12/2021 09:06:28 ---------- Start check button Chinese
+27/12/2021 09:06:34 ---------- Result check button Chinese: True
+27/12/2021 09:06:34 ---------- End check button Chinese
+27/12/2021 09:06:46 ---------- Start check button Logo Home Page Above
+27/12/2021 09:06:47 ---------- Start check slider list item
+27/12/2021 09:06:47 ---------- Result check slider list item: True
+27/12/2021 09:06:47 ---------- End check slider list item
+27/12/2021 09:06:53 ---------- Result check button Logo Home Page Above: True
+27/12/2021 09:06:53 ---------- End check button Logo Home Page Above
+27/12/2021 09:07:02 ---------- Start check button next slick arrow
+27/12/2021 09:07:09 ---------- Result check button next slick arrow: True
+27/12/2021 09:07:09 ---------- End check button next slick arrow
+27/12/2021 09:07:19 ---------- Start check button prev slick arrow
+27/12/2021 09:07:27 ---------- Result check button prev slick arrow: True
+27/12/2021 09:07:27 ---------- End check button prev slick arrow
+28/12/2021 13:24:35 ---------- -------------------------------START-------------------------------
+28/12/2021 13:24:35 ---------- Start backup and create a new output file
+28/12/2021 13:24:35 ---------- End backup and create a new output file
+28/12/2021 13:24:35 ---------- Start open browser Chrome
+28/12/2021 13:24:43 ---------- End open browser Chrome
+28/12/2021 13:26:43 ---------- Start check page Recommend Products
+28/12/2021 13:27:07 ---------- Result check page Recommend Products: True
+28/12/2021 13:27:07 ---------- End check page Recommend Products
+28/12/2021 13:27:17 ---------- Start check page Recommend Recipe
+28/12/2021 13:29:47 ---------- Result check page Recommend Recipe: True
+28/12/2021 13:29:47 ---------- End check page Recommend Recipe
+28/12/2021 13:29:59 ---------- Start check page Experience
+28/12/2021 13:30:21 ---------- Result check page Experience: True
+28/12/2021 13:30:21 ---------- End check page Experience
+28/12/2021 13:30:32 ---------- Start check page Company
+28/12/2021 13:30:38 ---------- Result check page Company: True
+28/12/2021 13:30:38 ---------- End check page Company
+28/12/2021 13:30:47 ---------- Start check page Contact
+28/12/2021 13:30:49 ---------- Result check page Contact: True
+28/12/2021 13:30:49 ---------- End check page Contact
+28/12/2021 13:30:59 ---------- Start check page Recruitment
+28/12/2021 13:31:02 ---------- Result check page Recruitment: True
+28/12/2021 13:31:02 ---------- End check page Recruitment
+28/12/2021 13:31:11 ---------- Start check button English
+28/12/2021 13:31:16 ---------- Result check button English: True
+28/12/2021 13:31:16 ---------- End check button English
+28/12/2021 13:31:24 ---------- Start check button Chinese
+28/12/2021 13:31:40 ---------- Result check button Chinese: True
+28/12/2021 13:31:40 ---------- End check button Chinese
+28/12/2021 13:31:54 ---------- Start check button Logo Home Page Above
+28/12/2021 13:31:56 ---------- Start check slider list item
+28/12/2021 13:31:56 ---------- Result check slider list item: True
+28/12/2021 13:31:56 ---------- End check slider list item
+28/12/2021 13:32:02 ---------- Result check button Logo Home Page Above: True
+28/12/2021 13:32:02 ---------- End check button Logo Home Page Above
+28/12/2021 13:32:10 ---------- Start check button next slick arrow
+28/12/2021 13:32:17 ---------- Result check button next slick arrow: True
+28/12/2021 13:32:17 ---------- End check button next slick arrow
+28/12/2021 13:32:27 ---------- Start check button prev slick arrow
+28/12/2021 13:32:34 ---------- Result check button prev slick arrow: True
+28/12/2021 13:32:34 ---------- End check button prev slick arrow
+28/12/2021 13:52:48 ---------- -------------------------------START-------------------------------
+28/12/2021 13:52:48 ---------- Start backup and create a new output file
+28/12/2021 13:52:48 ---------- End backup and create a new output file
+28/12/2021 13:52:49 ---------- Start open browser Chrome
+28/12/2021 13:52:55 ---------- End open browser Chrome
+28/12/2021 13:55:51 ---------- Start check page Recommend Products
+28/12/2021 13:56:03 ---------- Result check page Recommend Products: True
+28/12/2021 13:56:03 ---------- End check page Recommend Products
+28/12/2021 13:56:16 ---------- Start check page Recommend Recipe
+28/12/2021 14:00:29 ---------- Result check page Recommend Recipe: True
+28/12/2021 14:00:29 ---------- End check page Recommend Recipe
+28/12/2021 14:00:40 ---------- Start check page Experience
+28/12/2021 14:00:55 ---------- Result check page Experience: True
+28/12/2021 14:00:55 ---------- End check page Experience
+28/12/2021 14:01:07 ---------- Start check page Company
+28/12/2021 14:02:03 ---------- Result check page Company: True
+28/12/2021 14:02:03 ---------- End check page Company
+28/12/2021 14:02:21 ---------- Start check page Contact
+28/12/2021 14:02:25 ---------- Result check page Contact: True
+28/12/2021 14:02:25 ---------- End check page Contact
+28/12/2021 14:02:37 ---------- Start check page Recruitment
+28/12/2021 14:02:40 ---------- Result check page Recruitment: True
+28/12/2021 14:02:40 ---------- End check page Recruitment
+28/12/2021 14:02:52 ---------- Start check button English
+28/12/2021 14:02:58 ---------- Result check button English: True
+28/12/2021 14:02:58 ---------- End check button English
+28/12/2021 14:03:11 ---------- Start check button Chinese
+28/12/2021 14:03:34 ---------- Result check button Chinese: True
+28/12/2021 14:03:34 ---------- End check button Chinese
+28/12/2021 14:03:52 ---------- Start check button Logo Home Page Above
+28/12/2021 14:03:59 ---------- Start check slider list item
+28/12/2021 14:03:59 ---------- Result check slider list item: True
+28/12/2021 14:03:59 ---------- End check slider list item
+28/12/2021 14:04:05 ---------- Result check button Logo Home Page Above: True
+28/12/2021 14:04:05 ---------- End check button Logo Home Page Above
+28/12/2021 14:04:15 ---------- Start check button next slick arrow
+28/12/2021 14:04:22 ---------- Result check button next slick arrow: True
+28/12/2021 14:04:22 ---------- End check button next slick arrow
+28/12/2021 14:04:39 ---------- Start check button prev slick arrow
+28/12/2021 14:04:48 ---------- Result check button prev slick arrow: True
+28/12/2021 14:04:48 ---------- End check button prev slick arrow
+28/12/2021 14:12:09 ---------- -------------------------------START-------------------------------
+28/12/2021 14:12:09 ---------- Start backup and create a new output file
+28/12/2021 14:12:09 ---------- End backup and create a new output file
+28/12/2021 14:12:09 ---------- Start open browser Chrome
+28/12/2021 14:12:15 ---------- End open browser Chrome
+28/12/2021 14:17:22 ---------- -------------------------------START-------------------------------
+28/12/2021 14:17:22 ---------- Start backup and create a new output file
+28/12/2021 14:17:22 ---------- End backup and create a new output file
+28/12/2021 14:17:22 ---------- Start open browser Chrome
+28/12/2021 14:17:29 ---------- End open browser Chrome
+28/12/2021 14:21:23 ---------- Start check page Recommend Products
+28/12/2021 14:21:31 ---------- Result check page Recommend Products: True
+28/12/2021 14:21:31 ---------- End check page Recommend Products
+28/12/2021 14:21:40 ---------- Start check page Recommend Recipe
+28/12/2021 14:23:59 ---------- Result check page Recommend Recipe: True
+28/12/2021 14:23:59 ---------- End check page Recommend Recipe
+28/12/2021 14:24:13 ---------- Start check page Experience
+28/12/2021 14:24:31 ---------- Result check page Experience: True
+28/12/2021 14:24:31 ---------- End check page Experience
+28/12/2021 14:24:41 ---------- Start check page Company
+28/12/2021 14:24:49 ---------- Result check page Company: True
+28/12/2021 14:24:49 ---------- End check page Company
+28/12/2021 14:25:00 ---------- Start check page Contact
+28/12/2021 14:25:02 ---------- Result check page Contact: True
+28/12/2021 14:25:02 ---------- End check page Contact
+28/12/2021 14:25:12 ---------- Start check page Recruitment
+28/12/2021 14:25:15 ---------- Result check page Recruitment: True
+28/12/2021 14:25:15 ---------- End check page Recruitment
+28/12/2021 14:25:25 ---------- Start check button English
+28/12/2021 14:25:33 ---------- Result check button English: True
+28/12/2021 14:25:33 ---------- End check button English
+28/12/2021 14:25:42 ---------- Start check button Chinese
+28/12/2021 14:25:56 ---------- Result check button Chinese: True
+28/12/2021 14:25:56 ---------- End check button Chinese
+28/12/2021 14:26:09 ---------- Start check button Logo Home Page Above
+28/12/2021 14:26:11 ---------- Start check slider list item
+28/12/2021 14:26:11 ---------- Result check slider list item: True
+28/12/2021 14:26:11 ---------- End check slider list item
+28/12/2021 14:26:17 ---------- Result check button Logo Home Page Above: True
+28/12/2021 14:26:17 ---------- End check button Logo Home Page Above
+28/12/2021 14:26:28 ---------- Start check button next slick arrow
+28/12/2021 14:26:35 ---------- Result check button next slick arrow: True
+28/12/2021 14:26:35 ---------- End check button next slick arrow
+28/12/2021 14:26:46 ---------- Start check button prev slick arrow
+28/12/2021 14:26:54 ---------- Result check button prev slick arrow: True
+28/12/2021 14:26:54 ---------- End check button prev slick arrow
+28/12/2021 14:28:03 ---------- -------------------------------START-------------------------------
+28/12/2021 14:28:03 ---------- Start backup and create a new output file
+28/12/2021 14:28:03 ---------- End backup and create a new output file
+28/12/2021 14:28:03 ---------- Start open browser Chrome
+28/12/2021 14:28:09 ---------- End open browser Chrome
+28/12/2021 14:29:36 ---------- Start check page Recommend Products
+28/12/2021 14:29:47 ---------- Result check page Recommend Products: True
+28/12/2021 14:29:47 ---------- End check page Recommend Products
+28/12/2021 14:29:59 ---------- Start check page Recommend Recipe
+28/12/2021 14:33:25 ---------- Result check page Recommend Recipe: True
+28/12/2021 14:33:25 ---------- End check page Recommend Recipe
+28/12/2021 14:33:34 ---------- Start check page Experience
+28/12/2021 14:33:45 ---------- Result check page Experience: True
+28/12/2021 14:33:45 ---------- End check page Experience
+28/12/2021 14:33:54 ---------- Start check page Company
+28/12/2021 14:34:03 ---------- Result check page Company: True
+28/12/2021 14:34:03 ---------- End check page Company
+28/12/2021 14:34:15 ---------- Start check page Contact
+28/12/2021 14:34:19 ---------- Result check page Contact: True
+28/12/2021 14:34:19 ---------- End check page Contact
+28/12/2021 14:34:30 ---------- Start check page Recruitment
+28/12/2021 14:35:04 ---------- Result check page Recruitment: True
+28/12/2021 14:35:04 ---------- End check page Recruitment
+28/12/2021 14:35:15 ---------- Start check button English
+28/12/2021 14:35:20 ---------- Result check button English: True
+28/12/2021 14:35:20 ---------- End check button English
+28/12/2021 14:35:29 ---------- Start check button Chinese
+28/12/2021 14:35:33 ---------- Result check button Chinese: True
+28/12/2021 14:35:33 ---------- End check button Chinese
+28/12/2021 14:35:48 ---------- Start check button Logo Home Page Above
+28/12/2021 14:35:50 ---------- Start check slider list item
+28/12/2021 14:35:50 ---------- Result check slider list item: True
+28/12/2021 14:35:50 ---------- End check slider list item
+28/12/2021 14:35:56 ---------- Result check button Logo Home Page Above: True
+28/12/2021 14:35:56 ---------- End check button Logo Home Page Above
+28/12/2021 14:36:05 ---------- Start check button next slick arrow
+28/12/2021 14:36:12 ---------- Result check button next slick arrow: True
+28/12/2021 14:36:12 ---------- End check button next slick arrow
+28/12/2021 14:36:25 ---------- Start check button prev slick arrow
+28/12/2021 14:36:33 ---------- Result check button prev slick arrow: True
+28/12/2021 14:36:33 ---------- End check button prev slick arrow
