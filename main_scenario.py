@@ -6,7 +6,6 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select
-import win32com.client as win32
 import pandas as pd
 import numpy as np
 import until
@@ -45,6 +44,40 @@ class Browser():
         self.values = []
         self.images_name = []
         self.int_count = 1
+
+    def download_image(self, image_url, dir_folder):
+        import requests
+        import shutil
+        filename = os.path.basename(image_url)
+        path_image = f"{dir_folder}\\{filename}"
+        try:
+            r = requests.get(image_url, stream=True)
+            if r.status_code == 200:
+                r.raw.decode_content = True
+                with open(path_image, 'wb') as f:
+                    shutil.copyfileobj(r.raw, f)
+                self.log_infor('Download successfull: ' + str(image_url))
+            else:
+                self.log_infor('Download fail: ' + str(image_url))
+        except Exception as error:
+            self.log_infor(
+                "Error on line " + str(sys.exc_info()[-1].tb_lineno) + " " + type(error).__name__ + " " + str(error)
+            )
+        return path_image
+
+    def compare_images(self, path_image_original, path_image_banner):
+        import cv2
+        import numpy as np
+        try:
+            image1 = cv2.imread(path_image_original)
+            image2 = cv2.imread(path_image_banner)
+            diff = cv2.subtract(image1, image2)
+            if not np.any(diff):
+                return True
+            else:
+                return False
+        except:
+            return False
 
     def create_folder(self, path_folder):
         check_folder = os.path.exists(path_folder)
@@ -90,7 +123,7 @@ class Browser():
         self.log_infor("Start open browser Chrome")
         chromeOptions = webdriver.ChromeOptions()
         driver = webdriver.Chrome(
-            executable_path=os.path.abspath(self.curdir + "\\driver\\chromedriver.exe"),
+            executable_path=os.path.abspath(f"{self.curdir}\\driver\\chromedriver.exe"),
             chrome_options=chromeOptions)
         self.log_infor("End open browser Chrome")
         return driver
@@ -442,7 +475,7 @@ class Browser():
         self.log_infor("End check button prev slick arrow")
         return result, str_item_prev, image
 
-    def write_to_excel(self, output_file, col_value, col_report, col_image_name):
+    def write_to_excel(self, output_file, col_value, col_report):
         '''
         write report to excel file with column report and column date
         col_report, col_date: Eg: I, K, ...
@@ -467,7 +500,9 @@ class Browser():
             else:
                 work_sheet[col_value + str(int_row)].value = str(self.values[index])
             # Write to col image_name and hyperlink image
-            work_sheet.cell(row=int_row, column=11).value = '=HYPERLINK("{}", "{}")'.format(self.images_name[index], self.images_name[index].split("\\")[-1])
+            path_image = self.images_name[index]
+            str_image_name = os.path.basename(self.images_name[index])
+            work_sheet.cell(row=int_row, column=11).value = '=HYPERLINK("{}", "{}")'.format(path_image, str_image_name)     # column=11 is column K
             int_row += 1
             index += 1
         work_book.save(output_file)
@@ -529,6 +564,37 @@ class Browser():
         if str(df["XPATH"][0]) != "":
             driver.find_element(By.XPATH, str(df["XPATH"][0])).click()
 
+    def get_attribute_by_df(self, driver, df, attribute):
+        result = ""
+        if str(df["テスト内容"][0]) == "Check Banner 1":
+            driver.switch_to.frame(driver.find_element(By.XPATH, '//*[@id="google_ads_iframe_/116070306/k/top_300x250_0"]'))
+        if str(df["ID"][0]) != "":
+            result = driver.find_element(By.ID, str(df["ID"][0])).get_attribute(attribute)
+        elif str(df["CLASS"][0]) != "":
+            result = driver.find_element(By.CLASS_NAME, str(df["CLASS"][0])).get_attribute(attribute)
+        elif str(df["TEXT"][0]) != "":
+            result = driver.find_element(By.LINK_TEXT, str(df["TEXT"][0])).get_attribute(attribute)
+        elif str(df["XPATH"][0]) != "":
+            result = driver.find_element(By.XPATH, str(df["XPATH"][0])).get_attribute(attribute)
+        return result
+
+    def check_banner(self, driver, df):
+        folder_download = f"{self.curdir}\\download"
+        path_image_original = f"{self.curdir}\\banner_image\\{str(df['値'][0])}"
+        href_image = self.get_attribute_by_df(driver, df, "src")
+        path_image_banner = self.download_image(href_image, folder_download)
+        result = self.compare_images(path_image_original, path_image_banner)
+        return result, path_image_banner
+
+    def test(self):
+        driver = self.open_browser_chrome()
+        driver.maximize_window()
+        driver.get("https://kakaku.com/")
+        sleep(3)
+        # driver.switch_to.frame(driver.find_element(By.XPATH, '//*[@id="google_ads_iframe_/116070306/k/top_300x250_0"]'))
+        link = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[2]/div[2]/div[4]/div[2]/div/p/img").get_attribute("src")
+        print(link)
+
     def main_chrome(self, output_file):
         df = pd.read_excel(output_file, sheet_name=0, header=0, dtype=object)
         df = df.replace(np.nan,"")
@@ -582,10 +648,74 @@ class Browser():
             if str(row["テスト内容"]) == "シリーズラインアップの「アヲハタ５５ポーションジャム」を押下する":
                 result, value, image_name = self.check_second_prod(driver, df)
                 sleep(2)
+            if str(row["テスト内容"]) == "Check Banner 1":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 1"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+            if str(row["テスト内容"]) == "Check Banner 2":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 2"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+            if str(row["テスト内容"]) == "Check Banner 3":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 3"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+            if str(row["テスト内容"]) == "Check Banner 4":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 4"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+            if str(row["テスト内容"]) == "Check Banner 5":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 5"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+            if str(row["テスト内容"]) == "Check Banner 6":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 6"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+            if str(row["テスト内容"]) == "Check Banner 7":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 7"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+            if str(row["テスト内容"]) == "Check Banner 8":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 8"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+            if str(row["テスト内容"]) == "Check Banner 9":
+                df_click = df[df["テスト内容"].astype(str) == "Check Banner 9"]
+                df_click.reset_index(inplace=True)
+                result, path_image = self.check_banner(driver, df_click)
+                image_name = f"{self.curdir}\\image\\{self.int_count}-{str(df_click['テスト内容'][0])}-{str(result)}.png"
+                copyfile(path_image, image_name)
+                self.int_count += 1
+
             self.values.append(value)
             self.results.append(result)
             self.images_name.append(image_name)
-        self.write_to_excel(output_file, "I", "J", "K")
+        self.write_to_excel(output_file, "I", "J")
         driver.quit()
 
 if __name__ == "__main__":
@@ -594,3 +724,4 @@ if __name__ == "__main__":
     driver = Browser(curdir, LOG_INFO)
     output_file = driver.backup_and_create_output_file()
     driver.main_chrome(output_file)
+    # driver.test()

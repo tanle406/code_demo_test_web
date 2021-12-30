@@ -7733,3 +7733,436 @@ from unknown error: web view not found
 28/12/2021 14:36:25 ---------- Start check button prev slick arrow
 28/12/2021 14:36:33 ---------- Result check button prev slick arrow: True
 28/12/2021 14:36:33 ---------- End check button prev slick arrow
+29/12/2021 09:57:10 ---------- -------------------------------START-------------------------------
+29/12/2021 09:57:10 ---------- Start backup and create a new output file
+29/12/2021 09:57:10 ---------- End backup and create a new output file
+29/12/2021 09:57:11 ---------- Start open browser Chrome
+29/12/2021 09:57:18 ---------- End open browser Chrome
+29/12/2021 10:02:42 ---------- -------------------------------START-------------------------------
+29/12/2021 10:02:42 ---------- Start backup and create a new output file
+29/12/2021 10:02:42 ---------- End backup and create a new output file
+29/12/2021 10:02:43 ---------- Start open browser Chrome
+29/12/2021 10:02:48 ---------- End open browser Chrome
+29/12/2021 10:10:29 ---------- -------------------------------START-------------------------------
+29/12/2021 10:10:29 ---------- Start backup and create a new output file
+29/12/2021 10:10:29 ---------- End backup and create a new output file
+29/12/2021 10:10:29 ---------- Start open browser Chrome
+29/12/2021 10:10:36 ---------- End open browser Chrome
+29/12/2021 10:21:05 ---------- -------------------------------START-------------------------------
+29/12/2021 10:21:05 ---------- Start backup and create a new output file
+29/12/2021 10:21:05 ---------- End backup and create a new output file
+29/12/2021 10:21:06 ---------- Start open browser Chrome
+29/12/2021 10:21:12 ---------- End open browser Chrome
+29/12/2021 10:27:32 ---------- -------------------------------START-------------------------------
+29/12/2021 10:27:32 ---------- Start backup and create a new output file
+29/12/2021 10:27:32 ---------- End backup and create a new output file
+29/12/2021 10:27:32 ---------- Start open browser Chrome
+29/12/2021 10:27:38 ---------- End open browser Chrome
+29/12/2021 10:39:05 ---------- -------------------------------START-------------------------------
+29/12/2021 10:39:05 ---------- Start backup and create a new output file
+29/12/2021 10:39:05 ---------- End backup and create a new output file
+29/12/2021 10:39:05 ---------- Start open browser Chrome
+29/12/2021 10:39:12 ---------- End open browser Chrome
+29/12/2021 10:40:09 ---------- -------------------------------START-------------------------------
+29/12/2021 10:40:09 ---------- Start backup and create a new output file
+29/12/2021 10:40:09 ---------- End backup and create a new output file
+29/12/2021 10:40:09 ---------- Start open browser Chrome
+29/12/2021 10:40:15 ---------- End open browser Chrome
+29/12/2021 10:42:16 ---------- -------------------------------START-------------------------------
+29/12/2021 10:42:16 ---------- Start backup and create a new output file
+29/12/2021 10:42:16 ---------- End backup and create a new output file
+29/12/2021 10:42:16 ---------- Start open browser Chrome
+29/12/2021 10:42:22 ---------- End open browser Chrome
+29/12/2021 10:48:31 ---------- -------------------------------START-------------------------------
+29/12/2021 10:48:31 ---------- Start backup and create a new output file
+29/12/2021 10:48:31 ---------- End backup and create a new output file
+29/12/2021 10:48:31 ---------- Start open browser Chrome
+29/12/2021 10:48:37 ---------- End open browser Chrome
+29/12/2021 11:12:59 ---------- -------------------------------START-------------------------------
+29/12/2021 11:12:59 ---------- Start backup and create a new output file
+29/12/2021 11:12:59 ---------- End backup and create a new output file
+29/12/2021 11:12:59 ---------- Start open browser Chrome
+29/12/2021 11:13:06 ---------- End open browser Chrome
+29/12/2021 11:26:37 ---------- -------------------------------START-------------------------------
+29/12/2021 11:26:37 ---------- Start backup and create a new output file
+29/12/2021 11:26:37 ---------- End backup and create a new output file
+29/12/2021 11:26:37 ---------- Start open browser Chrome
+29/12/2021 11:26:43 ---------- End open browser Chrome
+29/12/2021 11:29:04 ---------- -------------------------------START-------------------------------
+29/12/2021 11:29:04 ---------- Start backup and create a new output file
+29/12/2021 11:29:04 ---------- End backup and create a new output file
+29/12/2021 11:29:04 ---------- Start open browser Chrome
+29/12/2021 11:29:10 ---------- End open browser Chrome
+29/12/2021 11:30:51 ---------- -------------------------------START-------------------------------
+29/12/2021 11:30:51 ---------- Start backup and create a new output file
+29/12/2021 11:30:51 ---------- End backup and create a new output file
+29/12/2021 11:30:51 ---------- Start open browser Chrome
+29/12/2021 11:30:57 ---------- End open browser Chrome
+29/12/2021 11:33:13 ---------- -------------------------------START-------------------------------
+29/12/2021 11:33:13 ---------- Start backup and create a new output file
+29/12/2021 11:33:13 ---------- End backup and create a new output file
+29/12/2021 11:33:13 ---------- Start open browser Chrome
+29/12/2021 11:33:19 ---------- End open browser Chrome
+29/12/2021 11:34:39 ---------- -------------------------------START-------------------------------
+29/12/2021 11:34:39 ---------- Start backup and create a new output file
+29/12/2021 11:34:39 ---------- End backup and create a new output file
+29/12/2021 11:34:39 ---------- Start open browser Chrome
+29/12/2021 11:34:45 ---------- End open browser Chrome
+29/12/2021 11:35:37 ---------- -------------------------------START-------------------------------
+29/12/2021 11:35:37 ---------- Start backup and create a new output file
+29/12/2021 11:35:37 ---------- End backup and create a new output file
+29/12/2021 11:35:37 ---------- Start open browser Chrome
+29/12/2021 11:35:43 ---------- End open browser Chrome
+29/12/2021 11:38:10 ---------- -------------------------------START-------------------------------
+29/12/2021 11:38:10 ---------- Start backup and create a new output file
+29/12/2021 11:38:10 ---------- End backup and create a new output file
+29/12/2021 11:38:10 ---------- Start open browser Chrome
+29/12/2021 11:38:16 ---------- End open browser Chrome
+29/12/2021 11:48:08 ---------- -------------------------------START-------------------------------
+29/12/2021 11:48:08 ---------- Start backup and create a new output file
+29/12/2021 11:48:08 ---------- End backup and create a new output file
+29/12/2021 11:48:08 ---------- Start open browser Chrome
+29/12/2021 11:48:15 ---------- End open browser Chrome
+29/12/2021 11:49:15 ---------- -------------------------------START-------------------------------
+29/12/2021 11:49:15 ---------- Start backup and create a new output file
+29/12/2021 11:49:15 ---------- End backup and create a new output file
+29/12/2021 11:49:15 ---------- Start open browser Chrome
+29/12/2021 11:49:21 ---------- End open browser Chrome
+29/12/2021 13:02:19 ---------- -------------------------------START-------------------------------
+29/12/2021 13:02:19 ---------- Start backup and create a new output file
+29/12/2021 13:02:19 ---------- End backup and create a new output file
+29/12/2021 13:02:20 ---------- Start open browser Chrome
+29/12/2021 13:02:26 ---------- End open browser Chrome
+29/12/2021 13:03:13 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65311.jpg
+29/12/2021 13:12:53 ---------- -------------------------------START-------------------------------
+29/12/2021 13:12:53 ---------- Start backup and create a new output file
+29/12/2021 13:12:53 ---------- End backup and create a new output file
+29/12/2021 13:12:53 ---------- Start open browser Chrome
+29/12/2021 13:13:11 ---------- -------------------------------START-------------------------------
+29/12/2021 13:13:11 ---------- Start backup and create a new output file
+29/12/2021 13:13:11 ---------- End backup and create a new output file
+29/12/2021 13:13:11 ---------- Start open browser Chrome
+29/12/2021 13:13:17 ---------- End open browser Chrome
+29/12/2021 13:14:14 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65311.jpg
+29/12/2021 13:19:53 ---------- -------------------------------START-------------------------------
+29/12/2021 13:19:53 ---------- Start backup and create a new output file
+29/12/2021 13:19:53 ---------- End backup and create a new output file
+29/12/2021 13:19:53 ---------- Start open browser Chrome
+29/12/2021 13:19:59 ---------- End open browser Chrome
+29/12/2021 13:23:09 ---------- -------------------------------START-------------------------------
+29/12/2021 13:23:09 ---------- Start backup and create a new output file
+29/12/2021 13:23:09 ---------- End backup and create a new output file
+29/12/2021 13:23:09 ---------- Start open browser Chrome
+29/12/2021 13:23:14 ---------- End open browser Chrome
+29/12/2021 13:24:28 ---------- -------------------------------START-------------------------------
+29/12/2021 13:24:28 ---------- Start backup and create a new output file
+29/12/2021 13:24:28 ---------- End backup and create a new output file
+29/12/2021 13:24:29 ---------- Start open browser Chrome
+29/12/2021 13:24:35 ---------- End open browser Chrome
+29/12/2021 13:25:49 ---------- Error on line 55 MissingSchema Invalid URL '': No schema supplied. Perhaps you meant http://?
+29/12/2021 13:27:01 ---------- -------------------------------START-------------------------------
+29/12/2021 13:27:01 ---------- Start backup and create a new output file
+29/12/2021 13:27:01 ---------- End backup and create a new output file
+29/12/2021 13:27:02 ---------- Start open browser Chrome
+29/12/2021 13:27:08 ---------- End open browser Chrome
+29/12/2021 13:28:14 ---------- Error on line 55 MissingSchema Invalid URL '': No schema supplied. Perhaps you meant http://?
+29/12/2021 13:31:05 ---------- -------------------------------START-------------------------------
+29/12/2021 13:31:05 ---------- Start backup and create a new output file
+29/12/2021 13:31:05 ---------- End backup and create a new output file
+29/12/2021 13:31:05 ---------- Start open browser Chrome
+29/12/2021 13:31:12 ---------- End open browser Chrome
+29/12/2021 13:32:27 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65311.jpg
+29/12/2021 13:32:37 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/20/09_g-tune/288x162_03.jpg
+29/12/2021 13:37:00 ---------- -------------------------------START-------------------------------
+29/12/2021 13:37:00 ---------- Start backup and create a new output file
+29/12/2021 13:37:00 ---------- End backup and create a new output file
+29/12/2021 13:37:00 ---------- Start open browser Chrome
+29/12/2021 13:37:06 ---------- End open browser Chrome
+29/12/2021 13:38:04 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65311.jpg
+29/12/2021 13:38:24 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/20/09_g-tune/288x162_03.jpg
+29/12/2021 13:38:43 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/12_y_3000/170x170.jpg
+29/12/2021 13:39:06 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/10_collectivead01/170x170.jpg
+29/12/2021 13:39:26 ---------- Download successfull: https://img1.kakaku.k-img.com/images/camera/article/maintenance/170x170.jpg
+29/12/2021 13:39:47 ---------- Download successfull: https://img1.kakaku.k-img.com/images/houseware/article/bousai/170x170.png
+29/12/2021 13:40:11 ---------- Download successfull: https://img1.kakaku.k-img.com/images/randoseru/banner/170x170.png
+29/12/2021 13:40:34 ---------- Download successfull: https://img1.kakaku.k-img.com/images/kaden/article/newlife/banner/170x170.png
+29/12/2021 13:40:58 ---------- Download successfull: https://img1.kakaku.k-img.com/images/okurimono/seasonalevent/onengaotoshidama/2020/170x170.png
+29/12/2021 13:55:34 ---------- -------------------------------START-------------------------------
+29/12/2021 13:55:34 ---------- Start backup and create a new output file
+29/12/2021 13:55:34 ---------- End backup and create a new output file
+29/12/2021 13:55:34 ---------- Start open browser Chrome
+29/12/2021 13:55:40 ---------- End open browser Chrome
+29/12/2021 13:56:32 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65311.jpg
+29/12/2021 13:57:49 ---------- -------------------------------START-------------------------------
+29/12/2021 13:57:49 ---------- Start backup and create a new output file
+29/12/2021 13:57:49 ---------- End backup and create a new output file
+29/12/2021 13:57:49 ---------- Start open browser Chrome
+29/12/2021 13:57:55 ---------- End open browser Chrome
+29/12/2021 13:58:49 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65312.jpg
+29/12/2021 13:59:11 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/20/09_g-tune/288x162_03.jpg
+29/12/2021 13:59:30 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/12_y_3000/170x170.jpg
+29/12/2021 13:59:52 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/10_collectivead01/170x170.jpg
+29/12/2021 14:00:11 ---------- Download successfull: https://img1.kakaku.k-img.com/images/camera/article/maintenance/170x170.jpg
+29/12/2021 14:00:37 ---------- Download successfull: https://img1.kakaku.k-img.com/images/houseware/article/bousai/170x170.png
+29/12/2021 14:01:04 ---------- Download successfull: https://img1.kakaku.k-img.com/images/randoseru/banner/170x170.png
+29/12/2021 14:01:25 ---------- Download successfull: https://img1.kakaku.k-img.com/images/kaden/article/newlife/banner/170x170.png
+29/12/2021 14:01:45 ---------- Download successfull: https://img1.kakaku.k-img.com/images/okurimono/seasonalevent/onengaotoshidama/2020/170x170.png
+29/12/2021 14:13:36 ---------- -------------------------------START-------------------------------
+29/12/2021 14:13:36 ---------- Start backup and create a new output file
+29/12/2021 14:13:36 ---------- End backup and create a new output file
+29/12/2021 14:13:36 ---------- Start open browser Chrome
+29/12/2021 14:13:42 ---------- End open browser Chrome
+29/12/2021 14:15:28 ---------- -------------------------------START-------------------------------
+29/12/2021 14:15:28 ---------- Start backup and create a new output file
+29/12/2021 14:15:28 ---------- End backup and create a new output file
+29/12/2021 14:15:28 ---------- Start open browser Chrome
+29/12/2021 14:15:34 ---------- End open browser Chrome
+29/12/2021 14:16:59 ---------- Start check page Recommend Products
+29/12/2021 14:17:12 ---------- Result check page Recommend Products: True
+29/12/2021 14:17:12 ---------- End check page Recommend Products
+29/12/2021 14:17:22 ---------- Start check page Recommend Recipe
+29/12/2021 14:19:06 ---------- Result check page Recommend Recipe: True
+29/12/2021 14:19:06 ---------- End check page Recommend Recipe
+29/12/2021 14:19:14 ---------- Start check page Experience
+29/12/2021 14:19:32 ---------- Result check page Experience: True
+29/12/2021 14:19:32 ---------- End check page Experience
+29/12/2021 14:19:42 ---------- Start check page Company
+29/12/2021 14:19:50 ---------- Result check page Company: True
+29/12/2021 14:19:50 ---------- End check page Company
+29/12/2021 14:20:01 ---------- Start check page Contact
+29/12/2021 14:20:05 ---------- Result check page Contact: True
+29/12/2021 14:20:05 ---------- End check page Contact
+29/12/2021 14:20:18 ---------- Start check page Recruitment
+29/12/2021 14:20:21 ---------- Result check page Recruitment: True
+29/12/2021 14:20:21 ---------- End check page Recruitment
+29/12/2021 14:20:30 ---------- Start check button English
+29/12/2021 14:20:36 ---------- Result check button English: True
+29/12/2021 14:20:36 ---------- End check button English
+29/12/2021 14:20:46 ---------- Start check button Chinese
+29/12/2021 14:21:01 ---------- Result check button Chinese: True
+29/12/2021 14:21:01 ---------- End check button Chinese
+29/12/2021 14:21:12 ---------- Start check button Logo Home Page Above
+29/12/2021 14:21:14 ---------- Start check slider list item
+29/12/2021 14:21:14 ---------- Result check slider list item: True
+29/12/2021 14:21:14 ---------- End check slider list item
+29/12/2021 14:21:20 ---------- Result check button Logo Home Page Above: True
+29/12/2021 14:21:20 ---------- End check button Logo Home Page Above
+29/12/2021 14:21:28 ---------- Start check button next slick arrow
+29/12/2021 14:21:35 ---------- Result check button next slick arrow: True
+29/12/2021 14:21:35 ---------- End check button next slick arrow
+29/12/2021 14:21:50 ---------- Start check button prev slick arrow
+29/12/2021 14:21:57 ---------- Result check button prev slick arrow: True
+29/12/2021 14:21:57 ---------- End check button prev slick arrow
+29/12/2021 14:49:01 ---------- -------------------------------START-------------------------------
+29/12/2021 14:49:01 ---------- Start backup and create a new output file
+29/12/2021 14:49:01 ---------- End backup and create a new output file
+29/12/2021 14:49:01 ---------- Start open browser Chrome
+29/12/2021 14:49:08 ---------- End open browser Chrome
+29/12/2021 14:50:16 ---------- Start check page Recommend Products
+29/12/2021 14:50:32 ---------- Result check page Recommend Products: True
+29/12/2021 14:50:32 ---------- End check page Recommend Products
+29/12/2021 14:50:42 ---------- Start check page Recommend Recipe
+29/12/2021 14:52:21 ---------- Result check page Recommend Recipe: True
+29/12/2021 14:52:21 ---------- End check page Recommend Recipe
+29/12/2021 14:52:30 ---------- Start check page Experience
+29/12/2021 14:52:40 ---------- Result check page Experience: True
+29/12/2021 14:52:40 ---------- End check page Experience
+29/12/2021 14:52:49 ---------- Start check page Company
+29/12/2021 14:52:57 ---------- Result check page Company: True
+29/12/2021 14:52:57 ---------- End check page Company
+29/12/2021 14:53:05 ---------- Start check page Contact
+29/12/2021 14:53:08 ---------- Result check page Contact: True
+29/12/2021 14:53:08 ---------- End check page Contact
+29/12/2021 14:53:17 ---------- Start check page Recruitment
+29/12/2021 14:53:20 ---------- Result check page Recruitment: True
+29/12/2021 14:53:20 ---------- End check page Recruitment
+29/12/2021 14:53:28 ---------- Start check button English
+29/12/2021 14:53:33 ---------- Result check button English: True
+29/12/2021 14:53:33 ---------- End check button English
+29/12/2021 14:53:41 ---------- Start check button Chinese
+29/12/2021 14:53:48 ---------- Result check button Chinese: True
+29/12/2021 14:53:48 ---------- End check button Chinese
+29/12/2021 14:53:58 ---------- Start check button Logo Home Page Above
+29/12/2021 14:54:00 ---------- Start check slider list item
+29/12/2021 14:54:00 ---------- Result check slider list item: True
+29/12/2021 14:54:00 ---------- End check slider list item
+29/12/2021 14:54:06 ---------- Result check button Logo Home Page Above: True
+29/12/2021 14:54:06 ---------- End check button Logo Home Page Above
+29/12/2021 14:54:15 ---------- Start check button next slick arrow
+29/12/2021 14:54:22 ---------- Result check button next slick arrow: True
+29/12/2021 14:54:22 ---------- End check button next slick arrow
+29/12/2021 14:54:32 ---------- Start check button prev slick arrow
+29/12/2021 14:54:40 ---------- Result check button prev slick arrow: True
+29/12/2021 14:54:40 ---------- End check button prev slick arrow
+29/12/2021 14:56:25 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65311.jpg
+29/12/2021 14:58:42 ---------- -------------------------------START-------------------------------
+29/12/2021 14:58:42 ---------- Start backup and create a new output file
+29/12/2021 14:58:42 ---------- End backup and create a new output file
+29/12/2021 14:58:42 ---------- Start open browser Chrome
+29/12/2021 14:58:48 ---------- End open browser Chrome
+29/12/2021 15:00:35 ---------- Start check page Recommend Products
+29/12/2021 15:00:49 ---------- Result check page Recommend Products: True
+29/12/2021 15:00:49 ---------- End check page Recommend Products
+29/12/2021 15:01:07 ---------- Start check page Recommend Recipe
+29/12/2021 15:03:34 ---------- Result check page Recommend Recipe: True
+29/12/2021 15:03:34 ---------- End check page Recommend Recipe
+29/12/2021 15:03:43 ---------- Start check page Experience
+29/12/2021 15:03:52 ---------- Result check page Experience: True
+29/12/2021 15:03:52 ---------- End check page Experience
+29/12/2021 15:03:59 ---------- Start check page Company
+29/12/2021 15:04:06 ---------- Result check page Company: True
+29/12/2021 15:04:06 ---------- End check page Company
+29/12/2021 15:04:14 ---------- Start check page Contact
+29/12/2021 15:04:17 ---------- Result check page Contact: True
+29/12/2021 15:04:17 ---------- End check page Contact
+29/12/2021 15:04:25 ---------- Start check page Recruitment
+29/12/2021 15:04:28 ---------- Result check page Recruitment: True
+29/12/2021 15:04:28 ---------- End check page Recruitment
+29/12/2021 15:04:36 ---------- Start check button English
+29/12/2021 15:04:41 ---------- Result check button English: True
+29/12/2021 15:04:41 ---------- End check button English
+29/12/2021 15:04:50 ---------- Start check button Chinese
+29/12/2021 15:04:58 ---------- Result check button Chinese: True
+29/12/2021 15:04:58 ---------- End check button Chinese
+29/12/2021 15:05:09 ---------- Start check button Logo Home Page Above
+29/12/2021 15:05:12 ---------- Start check slider list item
+29/12/2021 15:05:12 ---------- Result check slider list item: True
+29/12/2021 15:05:12 ---------- End check slider list item
+29/12/2021 15:05:18 ---------- Result check button Logo Home Page Above: True
+29/12/2021 15:05:18 ---------- End check button Logo Home Page Above
+29/12/2021 15:05:27 ---------- Start check button next slick arrow
+29/12/2021 15:05:34 ---------- Result check button next slick arrow: True
+29/12/2021 15:05:34 ---------- End check button next slick arrow
+29/12/2021 15:05:45 ---------- Start check button prev slick arrow
+29/12/2021 15:05:53 ---------- Result check button prev slick arrow: True
+29/12/2021 15:05:53 ---------- End check button prev slick arrow
+29/12/2021 15:07:14 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65311.jpg
+29/12/2021 15:13:01 ---------- -------------------------------START-------------------------------
+29/12/2021 15:13:01 ---------- Start backup and create a new output file
+29/12/2021 15:13:01 ---------- End backup and create a new output file
+29/12/2021 15:13:01 ---------- Start open browser Chrome
+29/12/2021 15:13:08 ---------- End open browser Chrome
+29/12/2021 15:15:06 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65312.jpg
+29/12/2021 15:15:46 ---------- -------------------------------START-------------------------------
+29/12/2021 15:15:46 ---------- Start backup and create a new output file
+29/12/2021 15:15:46 ---------- End backup and create a new output file
+29/12/2021 15:15:46 ---------- Start open browser Chrome
+29/12/2021 15:15:52 ---------- End open browser Chrome
+29/12/2021 15:17:03 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65312.jpg
+29/12/2021 15:17:17 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/20/09_g-tune/288x162_03.jpg
+29/12/2021 15:17:40 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/12_y_3000/170x170.jpg
+29/12/2021 15:18:03 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/10_collectivead01/170x170.jpg
+29/12/2021 15:18:33 ---------- -------------------------------START-------------------------------
+29/12/2021 15:18:33 ---------- Start backup and create a new output file
+29/12/2021 15:18:33 ---------- End backup and create a new output file
+29/12/2021 15:18:34 ---------- Start open browser Chrome
+29/12/2021 15:18:40 ---------- End open browser Chrome
+29/12/2021 15:19:49 ---------- Start check page Recommend Products
+29/12/2021 15:20:02 ---------- Result check page Recommend Products: True
+29/12/2021 15:20:02 ---------- End check page Recommend Products
+29/12/2021 15:20:13 ---------- Start check page Recommend Recipe
+29/12/2021 15:21:45 ---------- Result check page Recommend Recipe: True
+29/12/2021 15:21:45 ---------- End check page Recommend Recipe
+29/12/2021 15:21:53 ---------- Start check page Experience
+29/12/2021 15:22:06 ---------- Result check page Experience: True
+29/12/2021 15:22:06 ---------- End check page Experience
+29/12/2021 15:22:15 ---------- Start check page Company
+29/12/2021 15:22:21 ---------- Result check page Company: True
+29/12/2021 15:22:21 ---------- End check page Company
+29/12/2021 15:22:29 ---------- Start check page Contact
+29/12/2021 15:22:32 ---------- Result check page Contact: True
+29/12/2021 15:22:32 ---------- End check page Contact
+29/12/2021 15:22:40 ---------- Start check page Recruitment
+29/12/2021 15:22:43 ---------- Result check page Recruitment: True
+29/12/2021 15:22:43 ---------- End check page Recruitment
+29/12/2021 15:22:53 ---------- Start check button English
+29/12/2021 15:22:58 ---------- Result check button English: True
+29/12/2021 15:22:58 ---------- End check button English
+29/12/2021 15:23:08 ---------- Start check button Chinese
+29/12/2021 15:23:19 ---------- Result check button Chinese: True
+29/12/2021 15:23:19 ---------- End check button Chinese
+29/12/2021 15:23:33 ---------- Start check button Logo Home Page Above
+29/12/2021 15:23:35 ---------- Start check slider list item
+29/12/2021 15:23:35 ---------- Result check slider list item: True
+29/12/2021 15:23:35 ---------- End check slider list item
+29/12/2021 15:23:41 ---------- Result check button Logo Home Page Above: True
+29/12/2021 15:23:41 ---------- End check button Logo Home Page Above
+29/12/2021 15:23:51 ---------- Start check button next slick arrow
+29/12/2021 15:23:58 ---------- Result check button next slick arrow: True
+29/12/2021 15:23:58 ---------- End check button next slick arrow
+29/12/2021 15:24:08 ---------- Start check button prev slick arrow
+29/12/2021 15:24:16 ---------- Result check button prev slick arrow: True
+29/12/2021 15:24:16 ---------- End check button prev slick arrow
+29/12/2021 15:25:40 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65312.jpg
+29/12/2021 15:26:04 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/20/09_g-tune/288x162_03.jpg
+29/12/2021 15:26:22 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/12_y_3000/170x170.jpg
+29/12/2021 15:26:50 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/10_collectivead01/170x170.jpg
+29/12/2021 15:27:07 ---------- Download successfull: https://img1.kakaku.k-img.com/images/camera/article/maintenance/170x170.jpg
+29/12/2021 15:27:30 ---------- Download successfull: https://img1.kakaku.k-img.com/images/houseware/article/bousai/170x170.png
+29/12/2021 15:27:59 ---------- Download successfull: https://img1.kakaku.k-img.com/images/randoseru/banner/170x170.png
+29/12/2021 15:28:17 ---------- Download successfull: https://img1.kakaku.k-img.com/images/kaden/article/newlife/banner/170x170.png
+29/12/2021 15:28:35 ---------- Download successfull: https://img1.kakaku.k-img.com/images/okurimono/seasonalevent/onengaotoshidama/2020/170x170.png
+29/12/2021 15:43:10 ---------- -------------------------------START-------------------------------
+29/12/2021 15:43:10 ---------- Start backup and create a new output file
+29/12/2021 15:43:10 ---------- End backup and create a new output file
+29/12/2021 15:43:10 ---------- Start open browser Chrome
+29/12/2021 15:43:16 ---------- End open browser Chrome
+29/12/2021 15:44:23 ---------- Start check page Recommend Products
+29/12/2021 15:44:51 ---------- Result check page Recommend Products: True
+29/12/2021 15:44:51 ---------- End check page Recommend Products
+29/12/2021 15:45:03 ---------- Start check page Recommend Recipe
+29/12/2021 15:46:41 ---------- Result check page Recommend Recipe: True
+29/12/2021 15:46:41 ---------- End check page Recommend Recipe
+29/12/2021 15:46:50 ---------- Start check page Experience
+29/12/2021 15:46:59 ---------- Result check page Experience: True
+29/12/2021 15:46:59 ---------- End check page Experience
+29/12/2021 15:47:07 ---------- Start check page Company
+29/12/2021 15:47:15 ---------- Result check page Company: True
+29/12/2021 15:47:15 ---------- End check page Company
+29/12/2021 15:47:26 ---------- Start check page Contact
+29/12/2021 15:47:29 ---------- Result check page Contact: True
+29/12/2021 15:47:29 ---------- End check page Contact
+29/12/2021 15:47:38 ---------- Start check page Recruitment
+29/12/2021 15:47:54 ---------- Result check page Recruitment: True
+29/12/2021 15:47:54 ---------- End check page Recruitment
+29/12/2021 15:48:04 ---------- Start check button English
+29/12/2021 15:48:08 ---------- Result check button English: True
+29/12/2021 15:48:08 ---------- End check button English
+29/12/2021 15:48:17 ---------- Start check button Chinese
+29/12/2021 15:48:21 ---------- Result check button Chinese: True
+29/12/2021 15:48:21 ---------- End check button Chinese
+29/12/2021 15:48:33 ---------- Start check button Logo Home Page Above
+29/12/2021 15:48:34 ---------- Start check slider list item
+29/12/2021 15:48:34 ---------- Result check slider list item: True
+29/12/2021 15:48:34 ---------- End check slider list item
+29/12/2021 15:48:40 ---------- Result check button Logo Home Page Above: True
+29/12/2021 15:48:40 ---------- End check button Logo Home Page Above
+29/12/2021 15:48:51 ---------- Start check button next slick arrow
+29/12/2021 15:48:58 ---------- Result check button next slick arrow: True
+29/12/2021 15:48:58 ---------- End check button next slick arrow
+29/12/2021 15:49:07 ---------- Start check button prev slick arrow
+29/12/2021 15:49:15 ---------- Result check button prev slick arrow: True
+29/12/2021 15:49:15 ---------- End check button prev slick arrow
+29/12/2021 15:50:49 ---------- Download successfull: https://img1.kakaku.k-img.com/images/ad/adadmin/adimage/202112/65311.jpg
+29/12/2021 15:51:10 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/12_lavie_direct_n15/288x162.jpg
+29/12/2021 15:51:27 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/12_y_3000/170x170.jpg
+29/12/2021 15:51:47 ---------- Download successfull: https://img1.kakaku.k-img.com/images/article/tieup/21/10_collectivead01/170x170.jpg
+29/12/2021 15:52:11 ---------- Download successfull: https://img1.kakaku.k-img.com/images/camera/article/maintenance/170x170.jpg
+29/12/2021 15:52:29 ---------- Download successfull: https://img1.kakaku.k-img.com/images/houseware/article/bousai/170x170.png
+29/12/2021 15:52:52 ---------- Download successfull: https://img1.kakaku.k-img.com/images/randoseru/banner/170x170.png
+29/12/2021 15:53:15 ---------- Download successfull: https://img1.kakaku.k-img.com/images/kaden/article/newlife/banner/170x170.png
+29/12/2021 15:53:36 ---------- Download successfull: https://img1.kakaku.k-img.com/images/okurimono/seasonalevent/onengaotoshidama/2020/170x170.png
+29/12/2021 16:00:41 ---------- -------------------------------START-------------------------------
+29/12/2021 16:00:41 ---------- Start backup and create a new output file
+29/12/2021 16:00:41 ---------- End backup and create a new output file
+29/12/2021 16:01:34 ---------- -------------------------------START-------------------------------
+29/12/2021 16:01:34 ---------- Start backup and create a new output file
+29/12/2021 16:01:34 ---------- End backup and create a new output file
+29/12/2021 16:01:50 ---------- Check button Logo Home Page Above
+29/12/2021 16:02:03 ---------- Start check page Recommend Products
+29/12/2021 16:02:18 ---------- Start check page Recommend Recipe
+29/12/2021 16:02:31 ---------- Start check page Experience
+29/12/2021 16:02:44 ---------- Start check page Contact
+29/12/2021 16:02:48 ---------- Start check page Recruitment
+29/12/2021 16:03:02 ---------- Check button Logo Home Page Above
+29/12/2021 16:03:14 ---------- Start check button Page Top
